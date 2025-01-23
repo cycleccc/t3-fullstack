@@ -1,0 +1,13 @@
+.custom-dropdown-menu .ant-dropdown-menu-item {
+  padding: 10px 20px; /* 增加内边距 */
+}
+.custom-dropdown-menu .ant-dropdown-menu-item {
+  margin-right: 10px;
+  margin-left: 10px;
+}
+.custom-dropdown-menu .ant-dropdown-menu-item:not(:last-child) {
+  margin-bottom: 10px; /* 增加菜单项之间的间距 */
+}
+.custom-dropdown-menu  .ant-dropdown-menu-root {
+    width: 200px;
+}
