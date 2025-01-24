@@ -1,14 +1,12 @@
-# Create T3 App
+# 项目由来
 
-This is a [T3 Stack](https://create.t3.gg/) project bootstrapped with `create-t3-app`.
+This is a [T3 Stack]() project bootstrapped with `create-t3-app`.
+该项目起源是公司内部的需要前端做全栈，所以用 [T3 Stack]）(https://create.t3.gg/)模板基于通过 T3 创建，使用前沿的 TS 技术栈，如果你需要开发面向国内的中后台系统，使用本项目做为初始化模板是绝佳的选择。
 
-## What's next? How do I make an app with this?
+## 技术栈
 
-We try to keep this project as simple as possible, so you can start with just the scaffolding we set up for you, and add additional things later when they become necessary.
-
-If you are not familiar with the different technologies used in this project, please refer to the respective docs. If you still are in the wind, please join our [Discord](https://t3.gg/discord) and ask for help.
-
-- [Next.js](https://nextjs.org)
+- [Next.js](https://nextjs.org) 
+next 是目前最流行的前端框架，有着相对易用的 SSR 能力以及开箱即用的 pages/api 结合 tRPC 实现快捷且安全的全栈能力
 - [NextAuth.js](https://next-auth.js.org)
 - [Prisma](https://prisma.io)
 - [Drizzle](https://orm.drizzle.team)
